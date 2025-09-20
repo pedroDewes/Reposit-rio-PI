@@ -1,2 +1,2 @@
-# Reposit-rio-PI
+# Repositrio-PI
 Pasta do PI n1 nosso grupo
